@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-56388b200/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictordamasADS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictordamasADS&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictordamasADS"/>
 </div>
   
 <div style="display: inline_block"><br>
