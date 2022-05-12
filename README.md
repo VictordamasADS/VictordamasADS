@@ -1,4 +1,6 @@
 ## Olá, eu sou o João Victor, sou desenvolvedor Web Full-stack!
+![Mastermind, Pixel Jeff](https://user-images.githubusercontent.com/51385145/166616431-1b9726b0-d740-45fb-8f07-f212e77ccbde.gif)
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-56388b200/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictordamasADS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
