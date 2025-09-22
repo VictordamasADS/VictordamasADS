@@ -1,4 +1,4 @@
-## Hello, my name is João Victor, i'm Frontend Developer!
+## Hello, my name is João Victor, i'm Software Developer!
 ![Mastermind, Pixel Jeff](https://user-images.githubusercontent.com/51385145/166616431-1b9726b0-d740-45fb-8f07-f212e77ccbde.gif)
 
 <div align="center">
