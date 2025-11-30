@@ -1,10 +1,10 @@
 ## Hello, my name is João Victor, i'm Software Developer!
 ![Mastermind, Pixel Jeff](https://user-images.githubusercontent.com/51385145/166616431-1b9726b0-d740-45fb-8f07-f212e77ccbde.gif)
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-46670b39a/">
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictordamasADS&t&langs_count=7&theme=dracula"/> -->
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictordamasADS&t&langs_count=7&theme=dracula"/>
+</div> -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +20,6 @@
 
   ###
   
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-56388b200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-46670b39a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
