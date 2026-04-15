@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictordamasADS&t&langs_count=7&theme=dracula"/>
 </div> -->
   
-<div style="display: flex; align-items: center; gap: 2px; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 2px;">
   <img alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
